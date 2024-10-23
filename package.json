@@ -1,0 +1,22 @@
+{
+  "name": "certogo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx main.ts",
+    "test": "jest",
+    "perf": "npx tsx src/__perf__/find-consecutive-number.perf.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bank-Saksit/certogo-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bank-Saksit/certogo-test/issues"
+  },
+  "homepage": "https://github.com/Bank-Saksit/certogo-test#readme"
+}
